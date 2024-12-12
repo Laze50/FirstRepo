@@ -1,2 +1,2 @@
-# FirstRepo
+# FirstRepository
 print("Hello World")
